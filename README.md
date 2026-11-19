@@ -59,5 +59,6 @@ Building practical software solutions and continuously improving my engineering 
 ## Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/mohamed-abdelmageed-739a96326) |
-[Portfolio](https://mohamedabdelmageedportfolio-gamma.vercel.app/)
+[Portfolio](https://mohamedabdelmageedportfolio-gamma.vercel.app/) |
+[Email](mailto:mohamed3msalem@gmail.com)
 
